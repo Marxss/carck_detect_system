@@ -1,0 +1,1 @@
+from vtkIOMINCPython import *

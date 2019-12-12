@@ -1,0 +1,1 @@
+from vtkImagingStencilPython import *
