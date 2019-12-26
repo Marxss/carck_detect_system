@@ -4,9 +4,6 @@
     <list default="true" id="2c36b8d7-2490-477f-95ec-90a64673ea62" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/carck_detect_system.iml" afterPath="$PROJECT_DIR$/.idea/carck_detect_system.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/system/example/read_images/read_images.py" afterPath="$PROJECT_DIR$/system/example/read_images/read_images.py" />
-      <change beforePath="$PROJECT_DIR$/system/example/regionGrow.py" afterPath="$PROJECT_DIR$/system/example/regionGrow.py" />
-      <change beforePath="$PROJECT_DIR$/system/example/regionGrowFunc.py" afterPath="$PROJECT_DIR$/system/example/regionGrowFunc.py" />
       <change beforePath="$PROJECT_DIR$/system/example/test.py" afterPath="$PROJECT_DIR$/system/example/test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/system/example/regionGrow.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="72" column="53" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="126" selection-end-column="12" />
+              <caret line="72" column="53" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="126" selection-end-column="12" />
               <folding>
                 <element signature="e#14#31#0" expanded="true" />
               </folding>
@@ -59,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3D_ACWE.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/system/example/ACWE/3D_ACWE.py">
+      <file leaf-file-name="ACWE.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/example/ACWE/ACWE.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="161" column="4" lean-forward="false" selection-start-line="161" selection-start-column="4" selection-end-line="165" selection-end-column="96" />
+            <state relative-caret-position="394">
+              <caret line="152" column="14" lean-forward="true" selection-start-line="152" selection-start-column="14" selection-end-line="152" selection-end-column="14" />
               <folding>
                 <element signature="e#88#106#0" expanded="true" />
               </folding>
@@ -74,8 +71,8 @@
       <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/system/example/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="403">
+              <caret line="68" column="33" lean-forward="false" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
               <folding>
                 <element signature="e#14#31#0" expanded="true" />
               </folding>
@@ -198,6 +195,7 @@
         <option value="$PROJECT_DIR$/system/example/read_images/read_images.py" />
         <option value="$PROJECT_DIR$/system/example/regionGrow.py" />
         <option value="$PROJECT_DIR$/system/example/ACWE/3D_ACWE.py" />
+        <option value="$PROJECT_DIR$/system/example/ACWE/ACWE.py" />
         <option value="$PROJECT_DIR$/system/example/test.py" />
       </list>
     </option>
@@ -271,21 +269,6 @@
               <item name="carck_detect_system" type="462c0819:PsiDirectoryNode" />
               <item name="system" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="ACWE" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="carck_detect_system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carck_detect_system" type="462c0819:PsiDirectoryNode" />
-              <item name="system" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="ACWE" type="462c0819:PsiDirectoryNode" />
-              <item name="3D_ACWE.py" type="8704e2dd:PyFileNode" />
-            </path>
-            <path>
-              <item name="carck_detect_system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carck_detect_system" type="462c0819:PsiDirectoryNode" />
-              <item name="system" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="read_images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -341,7 +324,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.regionGrow">
+  <component name="RunManager" selected="Python.test">
     <configuration name="3D_ACWE" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -354,25 +337,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="carck_detect_system" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/system/example/ACWE/3D_ACWE.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="CutWithScalars" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/system/example/VTK_GUIDE" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="carck_detect_system" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/system/example/VTK_GUIDE/CutWithScalars.py" />
+      <option name="SCRIPT_NAME" value="D:\carck_detect_system\system\example\ACWE\ACWE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -432,20 +397,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/system/example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="carck_detect_system" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/system/example/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.regionGrow" />
-      <item index="1" class="java.lang.String" itemvalue="Python.CutWithScalars" />
-      <item index="2" class="java.lang.String" itemvalue="Python.PolyDataContourToImageData" />
-      <item index="3" class="java.lang.String" itemvalue="Python.VTKwithNumpy" />
-      <item index="4" class="java.lang.String" itemvalue="Python.3D_ACWE" />
+      <item index="1" class="java.lang.String" itemvalue="Python.PolyDataContourToImageData" />
+      <item index="2" class="java.lang.String" itemvalue="Python.VTKwithNumpy" />
+      <item index="3" class="java.lang.String" itemvalue="Python.3D_ACWE" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.regionGrow" />
-        <item index="1" class="java.lang.String" itemvalue="Python.3D_ACWE" />
-        <item index="2" class="java.lang.String" itemvalue="Python.VTKwithNumpy" />
-        <item index="3" class="java.lang.String" itemvalue="Python.PolyDataContourToImageData" />
-        <item index="4" class="java.lang.String" itemvalue="Python.CutWithScalars" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.regionGrow" />
+        <item index="2" class="java.lang.String" itemvalue="Python.3D_ACWE" />
+        <item index="3" class="java.lang.String" itemvalue="Python.VTKwithNumpy" />
+        <item index="4" class="java.lang.String" itemvalue="Python.PolyDataContourToImageData" />
       </list>
     </recent_temporary>
   </component>
@@ -477,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576125879405</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="12.26">
+      <created>1577372052252</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577372052252</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -509,7 +499,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="11.15" />
     <MESSAGE value="12.12" />
-    <option name="LAST_COMMIT_MESSAGE" value="12.12" />
+    <MESSAGE value="12.26" />
+    <option name="LAST_COMMIT_MESSAGE" value="12.26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -858,17 +849,17 @@
     <entry file="file://$PROJECT_DIR$/system/example/regionGrow.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="72" column="53" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="126" selection-end-column="12" />
+          <caret line="72" column="53" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="126" selection-end-column="12" />
           <folding>
             <element signature="e#14#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/ACWE/3D_ACWE.py">
+    <entry file="file://$PROJECT_DIR$/system/example/ACWE/ACWE.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="161" column="4" lean-forward="false" selection-start-line="161" selection-start-column="4" selection-end-line="165" selection-end-column="96" />
+        <state relative-caret-position="394">
+          <caret line="152" column="14" lean-forward="true" selection-start-line="152" selection-start-column="14" selection-end-line="152" selection-end-column="14" />
           <folding>
             <element signature="e#88#106#0" expanded="true" />
           </folding>
@@ -877,8 +868,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/system/example/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="403">
+          <caret line="68" column="33" lean-forward="false" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
           <folding>
             <element signature="e#14#31#0" expanded="true" />
           </folding>

@@ -7,7 +7,7 @@ from vtk.util.numpy_support import vtk_to_numpy
 from otsu import otsu_threshold
 import cv2
 from read_images import read_images
-from ACWE import 3D_ACWE
+from ACWE.ACWE import *
 
 startNum=0
 endNum=1200
@@ -20,10 +20,10 @@ img,img_width,img_height,startNum,endNum=read_images(path,startNum,endNum)
 x,y,z = img.shape
 r=20
 phi0 = initialize(x,y,z, x_center=r, y_center=r, z_center=r, radius=r-2)
-
-acwe(img, phi0, max_iter=100, time_step=0.1, mu=0.1, v=0.1, lambda1=1, lambda2=1, epsilon=1)
+# a=acwe(img, phi0, max_iter=5, time_step=0.1, mu=0.1, v=0.1, lambda1=1, lambda2=1, epsilon=1)
+a=phi0
 print("img zise: ",img_height," ,",img_width,startNum,endNum)
-a=grow(a,(0,0,0),1)
+# a=grow(a,(0,0,0),1)
 
 #numpy2vtk
 dataImporter = vtk.vtkImageImport()
@@ -65,17 +65,17 @@ iren.SetRenderWindow(renWin)
 
 # Create transfer mapping scalar value to opacity.
 opacityTransferFunction = vtk.vtkPiecewiseFunction()
-opacityTransferFunction.AddPoint(-0.5, 0.5)
+opacityTransferFunction.AddPoint(-0.5, 0.01)
 opacityTransferFunction.AddPoint(0.5, 0.5)
-opacityTransferFunction.ClampingOff()
+# opacityTransferFunction.ClampingOff()
 
 # Create transfer mapping scalar value to color.
 colorTransferFunction = vtk.vtkColorTransferFunction()
 colorTransferFunction.AddRGBPoint(0.0, 0.0, 0.0, 0.7)
-colorTransferFunction.AddRGBPoint(50, 0.0, 0.0, 0.0)
-colorTransferFunction.AddRGBPoint(100, 0.0, 0.0, 0.0)
-# colorTransferFunction.AddRGBPoint(150, 0.0, 0.7, 0.7)
-colorTransferFunction.AddRGBPoint(255, 0.0, 0.0, 0.0)
+# colorTransferFunction.AddRGBPoint(50, 0.0, 0.0, 0.0)
+# colorTransferFunction.AddRGBPoint(100, 0.0, 0.0, 0.0)
+# # colorTransferFunction.AddRGBPoint(150, 0.0, 0.7, 0.7)
+# colorTransferFunction.AddRGBPoint(255, 0.0, 0.0, 0.0)
 
 #Creat opacity gradient function
 gradientTransferFunction=vtkPiecewiseFunction()
