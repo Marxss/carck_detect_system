@@ -28,7 +28,7 @@ def grow(img, seed, t):
     t: int
         The image neighborhood radius for the inclusion criteria.
     """
-    img=otsu_threshold(img)
+    # img=otsu_threshold(img)
     seg = np.zeros(img.shape, dtype=np.uint8)
     # seg=np.copy(img)
     print(img.max(),img.min(),img.shape,img.dtype)
@@ -53,7 +53,7 @@ def grow(img, seed, t):
         kmin = max(pt[2] - t, 0)
         kmax = min(pt[2] + t, img.shape[2])
         # if img[imin:imax, jmin:jmax, kmin:kmax].mean()<150:
-        if img[pt] < 90:
+        if img[pt] < 120:
             # Include the voxel in the segmentation and
             # add its neighbors to be checked.
             seg[pt] = 0

@@ -6,52 +6,17 @@ import vtk
 from vtk.util.numpy_support import vtk_to_numpy
 from otsu import otsu_threshold
 import cv2
+from read_images import read_images
 
-startNum=20
-endNum=23
-img_height=347
-img_width=350
+startNum=0
+endNum=1200
+# img_height=255
+# img_width=255
 
 
-v16=vtkBMPReader()
-v16.SetDataByteOrderToLittleEndian()
-#crack
-# v16.SetFilePrefix("D:\carck_detect_system\myPaper\crack_test\\0-00")
-# v16.SetFilePattern("%s%03d.bmp")
-#engine
-# v16.SetFilePrefix("D:\carck_detect_system\engine\engine0")
-# v16.SetFilePattern("%s%03d.bmp")
-#precombust
-v16.SetFilePrefix("D:\carck_detect_system\precombust\precombust0")
-v16.SetFilePattern("%s%03d.bmp")
-#gear
-# v16.SetFilePrefix("D:\carck_detect_system\myPaper\gear_CT_slices\\")
-# v16.SetFilePattern("%s%01d.bmp")
-
-v16.SetDataByteOrderToLittleEndian()
-v16.SetDataOrigin(0, 0, 0)
-v16.SetAllow8BitBMP(8)
-# v16.Allow8BitBMPOff()
-v16.SetDataExtent(0, img_height+1, 0, img_width+1, startNum, endNum)
-v16.SetDataSpacing(1,1,1)
-v16.Update()
-
-#vtk2numpy
-# print(dataImporter.SetDataScalarTypeToInt()[0,0,0])
-im = v16.GetOutput()
-print(im.GetNumberOfPoints())
-rows, cols, _ = im.GetDimensions()
-sc = im.GetPointData().GetScalars()
-a = vtk_to_numpy(sc)
-a = a.reshape(rows, cols, -1)
-# a[:,:,:]=0
-print(a.shape)
-# print(a[(100,100,5)])
-assert a.shape == im.GetDimensions()
-#begin region grow
-print(a[:,50,:].shape)
-cv2.imshow("slice",a[:,50,:])
-cv2.waitKey()
+path = r'D:\carck_detect_system\crack'
+a,img_width,img_height,startNum,endNum=read_images(path,startNum,endNum)
+print("img zise: ",img_height," ,",img_width,startNum,endNum)
 a=grow(a,(0,0,0),1)
 
 #numpy2vtk
@@ -69,10 +34,10 @@ dataImporter.SetNumberOfScalarComponents(1)
 #  For other data, this is probably not the case.
 # I have to admit however, that I honestly dont know the difference between SetDataExtent()
 #  and SetWholeExtent() although VTK complains if not both are used.
-dataImporter.SetDataExtent(0, img_height, 0, img_width, 0, endNum-startNum)
-dataImporter.SetWholeExtent(0, img_height, 0, img_width, 0, endNum-startNum)
+dataImporter.SetDataExtent(0, img_height-1, 0, img_width-1, 0, endNum-startNum)
+dataImporter.SetWholeExtent(0, img_height-1, 0, img_width-1, 0, endNum-startNum)
 v16=dataImporter
-v16.SetDataSpacing(1,1,10)
+v16.SetDataSpacing(1,1,1)
 # v16.SetAllow8BitBMP(16)
 v16.Update()
 
@@ -95,26 +60,51 @@ iren.SetRenderWindow(renWin)
 # Create transfer mapping scalar value to opacity.
 opacityTransferFunction = vtk.vtkPiecewiseFunction()
 opacityTransferFunction.AddPoint(0, 0.0)
-opacityTransferFunction.AddPoint(50, 0.002)
-opacityTransferFunction.AddPoint(150, 0.1)
-opacityTransferFunction.AddPoint(255, 0.1)
+opacityTransferFunction.AddPoint(50, 0.0)
+opacityTransferFunction.AddPoint(150, 0.6)
+opacityTransferFunction.AddPoint(255, 0.0)
 
 # Create transfer mapping scalar value to color.
 colorTransferFunction = vtk.vtkColorTransferFunction()
 colorTransferFunction.AddRGBPoint(0.0, 0.0, 0.0, 0.0)
-colorTransferFunction.AddRGBPoint(50, 1.0, 0.0, 0.0)
-colorTransferFunction.AddRGBPoint(100, 0.0, 1.0, 0.0)
-colorTransferFunction.AddRGBPoint(150, 0.0, 0.0, 1.0)
+colorTransferFunction.AddRGBPoint(50, 0.0, 0.0, 0.0)
+colorTransferFunction.AddRGBPoint(100, 0.0, 0.0, 0.0)
+colorTransferFunction.AddRGBPoint(150, 0.0, 0.7, 0.7)
+colorTransferFunction.AddRGBPoint(255, 0.0, 0.0, 0.0)
 
+#Creat opacity gradient function
+gradientTransferFunction=vtkPiecewiseFunction()
+gradientTransferFunction.AddPoint(0,0.0)
+gradientTransferFunction.AddPoint(255,2.0)
 # The property describes how the data will look.
 volumeProperty = vtk.vtkVolumeProperty()
 volumeProperty.SetColor(colorTransferFunction)
 volumeProperty.SetScalarOpacity(opacityTransferFunction)
-# volumeProperty.ShadeOn()
+volumeProperty.SetGradientOpacity(gradientTransferFunction)
+
+volumeProperty.ShadeOn()
+volumeProperty.SetAmbient(0.5)  #设置环境光系数
+volumeProperty.SetDiffuse(1)  #设置散射光系数
+volumeProperty.SetSpecular(0.5)  #设置反射光系数
+volumeProperty.SetSpecularPower(50)
+#设置灯光
+myLight2 = vtkLight()
+myLight2.PositionalOn()
+myLight2.SetColor(1, 1, 1)
+myLight2.SetPosition(-9999999, -9999999, -9999999)
+myLight2.SetFocalPoint(ren1.GetActiveCamera().GetFocalPoint())
+# ren1.AddLight(myLight2)
+
 volumeProperty.SetInterpolationTypeToLinear()
+# volumeProperty.SetInterpolationTypeToNearest()
 
 # The mapper / ray cast function know how to render the data.
-volumeMapper = vtk.vtkFixedPointVolumeRayCastMapper()
+# volumeMapper = vtk.vtkFixedPointVolumeRayCastMapper()
+# volumeMapper=vtkGPUVolumeRayCastMapper()
+volumeMapper=vtkSmartVolumeMapper()
+volumeMapper.SetRequestedRenderModeToRayCast()
+volumeMapper.SetRequestedRenderModeToGPU()
+# volumeMapper.SetInterpolationModeToLinear()
 volumeMapper.SetInputConnection(v16.GetOutputPort())
 
 # The volume holds the mapper and the property and
