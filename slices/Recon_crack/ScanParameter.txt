@@ -1,0 +1,70 @@
+;说明：CD型锥束CT扫描参数（V1.0）
+
+;---------------------
+;  射线源参数
+;---------------------
+[X-RAY SOURCE]
+Voltage=60			;电压（KV）
+Current=300			;电流（mA）
+FocusSize=5.0			;焦点尺寸（mm）
+
+;---------------------
+;  探测器参数
+;---------------------
+[DETECTORS]
+Width=1024			;探测器横向单元数量***
+Height=1024			;探测器纵向单元数量***
+UnitSize=0.200			;探测器单元宽度（mm）***
+Binning=1			;Binning方式:1-1X1,2-2X2,3-4X4,4-1X2,5-,6-1X4
+SampleTime=499.950ms			;采样积分时间（秒）
+FrameCnt=3			;单分度采样帧数
+DataType=INT16			;采集数据类型，INT16，INT32，FLOAT
+
+;--------------------------------------------;
+;  扫描几何参数
+;  以转轴为z轴，垂直z轴的射线为y轴（方向指向射线源），建立全局坐标系；
+;  探测器水平方向为u轴，垂直方向为v轴，建立局部坐标系；
+;  局部坐标系绕全局系z轴旋转。
+;--------------------------------------------;
+[GEOMETRY]
+SOD=126.9			;射线源焦点到旋转轴的实际距离（mm）**）
+SDD=1128.0			;射线源焦点到探测器的实际距离（mm）**
+thetaY=0.0			;探测器绕y轴的旋转角度（度）
+thetaX=0.0			;探测器绕x轴的旋转角度（度）
+thetaZ=0.0			;探测器绕z轴的旋转角度（度）
+uo_mm=105.50000
+vo_mm=102.5			;中心探测器垂直坐标（mm）
+graduation=1000			;总分度数
+Angle00000=0			;0号投影的角度
+…				; 1-1000号投影的角度
+Angle1000=360			;1000号投影的角度
+
+;---------------------
+;  重建图像参数
+;---------------------
+[IMAGE PARAMETER]
+Width=1024
+StartLayer=0			;重建图像的起始层（像素）
+Height=1024
+SkipGraduation=1
+SkipHorizontal=1
+SkipVertical =0			;探测器垂直方向跳跃数
+rotAngle=0			;重建起始角度（°）
+FirstSection=0
+LastSection=1023
+Filename=2016041900045.vol
+Image Directory=F:\微焦CT
+Sigma=2.000000			;
+;---------------------
+;  系统与任务参数
+;---------------------
+[SYSTEM INFORMATION]
+EquipmentModel=CD-130BX/UCT			;设备型号
+Operator=			;检测人员姓名
+DateTime=2016/04/19 16:01:17 			;日期及时间
+ImageFileName=2016041900045			;图像文件名
+TaskName= 			;测试任务名称
+SubmitUnit= 			;送检单位
+SampleName= 			;样品名称
+SampleModel= 			;样品型号
+SampleNumber= 			;样品编号
