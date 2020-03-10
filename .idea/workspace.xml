@@ -3,6 +3,571 @@
   <component name="ChangeListManager">
     <list default="true" id="2c36b8d7-2490-477f-95ec-90a64673ea62" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0000.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0001.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0002.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0003.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0004.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0005.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0006.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0007.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0008.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0009.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0010.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0011.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0012.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0013.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0014.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0015.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0016.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0017.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0018.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0019.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0020.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0021.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0022.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0023.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0024.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0025.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0026.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0027.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0028.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0029.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0030.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0031.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0032.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0033.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0034.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0035.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0036.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0037.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0038.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0039.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0040.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0041.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0042.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0043.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0044.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0045.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0046.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0047.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0048.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0049.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0050.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0051.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0052.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0053.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0054.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0055.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0056.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0057.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0058.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0059.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0060.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0061.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0062.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0063.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0064.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0065.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0066.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0067.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0068.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0069.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0070.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0071.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0072.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0073.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0074.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0075.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0076.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0077.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0078.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0079.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0080.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0081.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0082.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0083.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0084.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0085.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0086.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0087.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0088.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0089.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0090.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0091.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0092.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0093.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0094.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0095.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0096.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0097.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0098.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0099.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0100.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0101.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0102.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0103.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0104.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0105.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0106.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0107.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0108.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0109.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0110.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0111.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0112.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0113.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0114.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0115.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0116.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0117.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0118.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0119.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0120.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0121.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0122.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0123.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0124.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0125.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0126.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0127.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0128.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0129.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0130.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0131.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0132.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0133.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0134.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0135.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0136.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0137.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0138.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0139.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0140.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0141.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0142.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0143.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0144.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0145.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0146.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0147.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0148.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0149.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0150.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0151.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0152.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0153.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0154.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0155.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0156.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0157.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0158.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0159.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0160.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0161.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0162.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0163.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0164.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0165.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0166.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0167.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0168.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0169.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0170.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0171.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0172.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0173.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0174.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0175.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0176.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0177.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0178.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0179.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0180.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0181.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0182.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0183.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0184.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0185.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0186.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0187.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0188.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0189.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0190.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0191.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0192.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0193.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0194.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0195.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0196.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0197.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0198.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0199.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0200.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0201.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0202.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0203.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0204.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0205.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0206.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0207.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0208.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0209.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0210.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0211.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0212.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0213.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0214.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0215.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0216.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0217.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0218.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0219.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0220.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0221.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0222.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0223.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0224.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0225.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0226.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0227.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0228.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0229.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0230.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0231.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0232.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0233.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0234.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0235.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0236.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0237.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0238.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0239.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0240.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0241.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0242.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0243.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0244.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0245.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0246.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0247.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0248.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0249.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0250.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0251.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0252.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0253.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0254.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0255.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0256.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0257.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0258.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0259.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0260.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0261.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0262.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0263.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0264.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0265.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0266.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0267.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cover/cover0268.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0000.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0001.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0002.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0003.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0004.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0005.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0006.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0007.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0008.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0009.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0010.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0011.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0012.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0013.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0014.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0015.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0016.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0017.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0018.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0019.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0020.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0021.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0022.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0023.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0024.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0025.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0026.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0027.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0028.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0029.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0030.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0031.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0032.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0033.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0034.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0035.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0036.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0037.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0038.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0039.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0040.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0041.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0042.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0043.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0044.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0045.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0046.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0047.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0048.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0049.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0050.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0051.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0052.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0053.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0054.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0055.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0056.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0057.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0058.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0059.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0060.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0061.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0062.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0063.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0064.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0065.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0066.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0067.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0068.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0069.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0070.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0071.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0072.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0073.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0074.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0075.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0076.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0077.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0078.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0079.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0080.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0081.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0082.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0083.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0084.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0085.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0086.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0087.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0088.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0089.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0090.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0091.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0092.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0093.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0094.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0095.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0096.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0097.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0098.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0099.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0100.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0101.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0102.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0103.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0104.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0105.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0106.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0107.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0108.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/engine/engine0109.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0000.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0001.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0002.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0003.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0004.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0005.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0006.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0007.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0008.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0009.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0010.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0011.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0012.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0013.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0014.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0015.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0016.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0017.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0018.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0019.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0020.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0021.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0022.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0023.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0024.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0025.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0026.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0027.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0028.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0029.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0030.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0031.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0032.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0033.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0034.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0035.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0036.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0037.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0038.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0039.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0040.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0041.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0042.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0043.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0044.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0045.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0046.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0047.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0048.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0049.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0050.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0051.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0052.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0053.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0054.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0055.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0056.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0057.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0058.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0059.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0060.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0061.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0062.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0063.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0064.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0065.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0066.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0067.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0068.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0069.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0070.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0071.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0072.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0073.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0074.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0075.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0076.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0077.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0078.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0079.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0080.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0081.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0082.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0083.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0084.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0085.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0086.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0087.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0088.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0089.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0090.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0091.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0092.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0093.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0094.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0095.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0096.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0097.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0098.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0099.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0100.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0101.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0102.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0103.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0104.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0105.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0106.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0107.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0108.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0109.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0110.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0111.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0112.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0113.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0114.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0115.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0116.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0117.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0118.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0119.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0120.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0121.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0122.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0123.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0124.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0125.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0126.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0127.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0128.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0129.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0130.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0131.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0132.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0133.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0134.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0135.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0136.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0137.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0138.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0139.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0140.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0141.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0142.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0143.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0144.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0145.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0146.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0147.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0148.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0149.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0150.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0151.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0152.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0153.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0154.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0155.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0156.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0157.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0158.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0159.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0160.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0161.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0162.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0163.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0164.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0165.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0166.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0167.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0168.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0169.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0170.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0171.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0172.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0173.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0174.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0175.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0176.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0177.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0178.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0179.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0180.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0181.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precombust/precombust0182.bmp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/system/example/VTK_GUIDE/VTKwithNumpy.py" afterPath="$PROJECT_DIR$/system/example/VTK_GUIDE/VTKwithNumpy.py" />
+      <change beforePath="$PROJECT_DIR$/system/example/read_images/read_images.py" afterPath="$PROJECT_DIR$/system/example/read_images/read_images.py" />
+      <change beforePath="$PROJECT_DIR$/system/example/test.py" afterPath="$PROJECT_DIR$/system/example/test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,10 +581,22 @@
       <file leaf-file-name="ACWE.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/system/example/ACWE/ACWE.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="37" column="60" lean-forward="false" selection-start-line="37" selection-start-column="60" selection-end-line="37" selection-end-column="60" />
+            <state relative-caret-position="246">
+              <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="41" />
               <folding>
                 <element signature="e#88#106#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CV_animation.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/CV_animation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+              <folding>
+                <element signature="e#14#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -28,88 +605,8 @@
       <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/system/example/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <element signature="e#14#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="read_images.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/system/example/read_images/read_images.py">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CV_animation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/CV_animation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="48" column="52" lean-forward="false" selection-start-line="48" selection-start-column="52" selection-end-line="48" selection-end-column="52" />
-              <folding>
-                <element signature="e#14#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="precombust0182.bmp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/precombust/precombust0182.bmp">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="precombust0000.bmp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/precombust/precombust0000.bmp">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="videoly.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/animation_img/videoly.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="25" column="39" lean-forward="false" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/907059903/cv2/cv2/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323940">
-              <caret line="10810" column="4" lean-forward="false" selection-start-line="10810" selection-start-column="4" selection-end-line="10810" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vtkRenderer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/907059903/vtk/vtkRenderingKitPython/vtkRenderer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11280">
-              <caret line="382" column="8" lean-forward="false" selection-start-line="382" selection-start-column="8" selection-end-line="382" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="draw_plane_volume.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/system/example/draw_plane_volume.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1500">
-              <caret line="50" column="5" lean-forward="false" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="35" />
+              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -184,21 +681,25 @@
         <option value="$PROJECT_DIR$/system/example/openCV_produce.py" />
         <option value="$PROJECT_DIR$/system/otsu.py" />
         <option value="$PROJECT_DIR$/system/example/otsu/otsu.py" />
-        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/VTKwithNumpy.py" />
         <option value="$PROJECT_DIR$/system/example/regionGrowFunc.py" />
-        <option value="$PROJECT_DIR$/system/example/read_images/read_images.py" />
         <option value="$PROJECT_DIR$/system/example/regionGrow.py" />
         <option value="$PROJECT_DIR$/system/example/ACWE/3D_ACWE.py" />
         <option value="$PROJECT_DIR$/system/example/draw_plane.py" />
-        <option value="$PROJECT_DIR$/system/example/test.py" />
         <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/animation_img/videoly.py" />
+        <option value="$PROJECT_DIR$/system/example/test.py" />
         <option value="$PROJECT_DIR$/system/example/ACWE/ACWE.py" />
+        <option value="$PROJECT_DIR$/system/example/vtkInQtTest.py" />
+        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/VTKwithNumpy.py" />
+        <option value="$PROJECT_DIR$/system/example/read_images/read_images.py" />
+        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/PineRootConnectivity.py" />
+        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/PineRootConnectivity_sphere.py" />
         <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/CV_animation.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="596" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -253,6 +754,11 @@
             <path>
               <item name="carck_detect_system" type="b2602c69:ProjectViewProjectNode" />
               <item name="carck_detect_system" type="462c0819:PsiDirectoryNode" />
+              <item name="slices" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carck_detect_system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carck_detect_system" type="462c0819:PsiDirectoryNode" />
               <item name="system" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -260,6 +766,20 @@
               <item name="carck_detect_system" type="462c0819:PsiDirectoryNode" />
               <item name="system" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carck_detect_system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carck_detect_system" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="ACWE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carck_detect_system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carck_detect_system" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="read_images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="carck_detect_system" type="b2602c69:ProjectViewProjectNode" />
@@ -267,6 +787,14 @@
               <item name="system" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="VTK_GUIDE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carck_detect_system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carck_detect_system" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="VTK_GUIDE" type="462c0819:PsiDirectoryNode" />
+              <item name="PineRootConnectivity_sphere.py" type="8704e2dd:PyFileNode" />
             </path>
           </expand>
           <select />
@@ -288,15 +816,16 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\carck_detect_system\system\example\VTK_GUIDE" />
+      <recent name="D:\carck_detect_system" />
+      <recent name="D:\carck_detect_system\system\example" />
+      <recent name="D:\carck_detect_system\system" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\carck_detect_system\system\example" />
       <recent name="D:\carck_detect_system\system\otsu" />
       <recent name="D:\carck_detect_system\myPaper\gear_CT_slices" />
-      <recent name="D:\carck_detect_system\system" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\carck_detect_system" />
-      <recent name="D:\carck_detect_system\system\example" />
       <recent name="D:\carck_detect_system\system" />
     </key>
   </component>
@@ -313,19 +842,19 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.CV_animation">
-    <configuration name="ACWE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="AlignTwoPolyDatas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/system/example/ACWE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/system/example/VTK_GUIDE" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="carck_detect_system" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/system/example/ACWE/ACWE.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/system/example/VTK_GUIDE/AlignTwoPolyDatas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -349,6 +878,42 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="PineRootConnectivity" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/system/example/VTK_GUIDE" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="carck_detect_system" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/system/example/VTK_GUIDE/PineRootConnectivity.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="PineRootConnectivity_sphere" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/system/example/VTK_GUIDE" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="carck_detect_system" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/system/example/VTK_GUIDE/PineRootConnectivity_sphere.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="draw_plane" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -367,56 +932,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/system/example" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="carck_detect_system" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/system/example/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="videoly" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/system/example/VTK_GUIDE/animation_img" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="carck_detect_system" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/system/example/VTK_GUIDE/animation_img/videoly.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.test" />
-      <item index="1" class="java.lang.String" itemvalue="Python.draw_plane" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ACWE" />
-      <item index="3" class="java.lang.String" itemvalue="Python.CV_animation" />
-      <item index="4" class="java.lang.String" itemvalue="Python.videoly" />
+      <item index="0" class="java.lang.String" itemvalue="Python.CV_animation" />
+      <item index="1" class="java.lang.String" itemvalue="Python.AlignTwoPolyDatas" />
+      <item index="2" class="java.lang.String" itemvalue="Python.draw_plane" />
+      <item index="3" class="java.lang.String" itemvalue="Python.PineRootConnectivity" />
+      <item index="4" class="java.lang.String" itemvalue="Python.PineRootConnectivity_sphere" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.CV_animation" />
-        <item index="1" class="java.lang.String" itemvalue="Python.videoly" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ACWE" />
-        <item index="4" class="java.lang.String" itemvalue="Python.draw_plane" />
+        <item index="1" class="java.lang.String" itemvalue="Python.PineRootConnectivity_sphere" />
+        <item index="2" class="java.lang.String" itemvalue="Python.PineRootConnectivity" />
+        <item index="3" class="java.lang.String" itemvalue="Python.draw_plane" />
+        <item index="4" class="java.lang.String" itemvalue="Python.AlignTwoPolyDatas" />
       </list>
     </recent_temporary>
   </component>
@@ -469,22 +998,30 @@
       <option name="project" value="LOCAL" />
       <updated>1581392219223</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2020.2.11">
+      <created>1581392229923</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581392229923</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17281349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17966281" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25027934" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25027934" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849163" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849163" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -500,11 +1037,11 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.326257" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849163" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18756586" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25027934" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849163" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14699684" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -541,6 +1078,31 @@
           <line>90</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/system/example/VTK_GUIDE/CV_animation.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/system/example/VTK_GUIDE/CV_animation.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/system/example/VTK_GUIDE/CV_animation.py</url>
+          <line>119</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/system/example/VTK_GUIDE/CV_animation.py</url>
+          <line>125</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/system/example/read_images/read_images.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -549,88 +1111,56 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="23" />
+      <option name="time" value="39" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/system/wavelets/pywt_test.py">
+    <entry file="file://$PROJECT_DIR$/engine/engine0008.bmp" />
+    <entry file="file://$PROJECT_DIR$/engine/engine0009.bmp" />
+    <entry file="file://$PROJECT_DIR$/engine/engine0010.bmp" />
+    <entry file="file://$PROJECT_DIR$/engine/engine0011.bmp" />
+    <entry file="file://$PROJECT_DIR$/engine/engine0012.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0000.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0002.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0004.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0006.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0007.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0008.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0009.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0010.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0011.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0012.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0013.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0014.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0015.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0018.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0020.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0021.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0022.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0027.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0031.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0036.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0042.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0048.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0062.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0063.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0064.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0066.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0060.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0054.bmp" />
+    <entry file="file://$PROJECT_DIR$/precombust/precombust0032.bmp" />
+    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/circle.vtp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="27" column="7" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="7" />
+        <state relative-caret-position="-2823">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myPaper/gear_CT_slices/black.bmp" />
-    <entry file="file://$PROJECT_DIR$/system/example/openCV_produce.py">
+    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/volume.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myPaper/gear_CT_slices/2.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/precombust/precombust0003.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/precombust/precombust0002.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/precombust/precombust0022.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/precombust/precombust0021.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/precombust/precombust0020.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/907059903/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="1254" column="8" lean-forward="false" selection-start-line="1254" selection-start-column="8" selection-end-line="1254" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python36_64/Lib/site-packages/itk/vnl_matrix_fixed_refPython.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="288" column="8" lean-forward="false" selection-start-line="288" selection-start-column="8" selection-end-line="288" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/engine/engine0001.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myPaper/crack_detection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="96" column="4" lean-forward="false" selection-start-line="96" selection-start-column="4" selection-end-line="98" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/CutWithScalars.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1710">
+        <state relative-caret-position="-3175">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -638,126 +1168,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/ICP.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2417">
+        <state relative-caret-position="-270">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#37#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/labelImage.png" />
-    <entry file="file://$PROJECT_DIR$/system/example/level_set.py" />
-    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/PolyDataContourToImageData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#11#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/VTKwithNumpy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#79#97#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/907059903/numpy/core/umath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136050">
-          <caret line="4535" column="4" lean-forward="false" selection-start-line="4535" selection-start-column="4" selection-end-line="4535" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cover/cover0262.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/engine/engine0000.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/precombust/precombust0005.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cover/cover0002.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cover/cover0001.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cover/cover0000.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cover/cover0268.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/otsu/otsu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/regionGrowFunc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1620">
-          <caret line="55" column="25" lean-forward="false" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crack/0-00308.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/907059903/vtk/vtkCommonKitPython/vtkPiecewiseFunction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/regionGrow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="41" selection-end-column="12" />
-          <folding>
-            <element signature="e#14#31#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/draw_plane2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3150">
-          <caret line="105" column="35" lean-forward="false" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/system/test.py">
+    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/marchingCube.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/vtkInQt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -767,96 +1192,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/marchingCube.py">
+    <entry file="file://$PROJECT_DIR$/system/example/vtkInQtTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450">
+        <state relative-caret-position="120">
+          <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#10#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/slice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-729">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/PolyDataContourToImageData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2790">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/AlignTwoPolyDatas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="56" column="55" lean-forward="false" selection-start-line="56" selection-start-column="55" selection-end-line="56" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/PineRootConnectivity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="39" column="42" lean-forward="false" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/PineRootConnectivity_sphere.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="122" column="22" lean-forward="false" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/VTKwithNumpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/system/example/draw_plane.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="46" selection-end-column="41" />
+        <state relative-caret-position="990">
+          <caret line="33" column="15" lean-forward="false" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/draw_volume2.py">
+    <entry file="file://$PROJECT_DIR$/system/example/read_images/read_images.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1530">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="515">
+          <caret line="28" column="8" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/draw_plane_volume.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1500">
-          <caret line="50" column="5" lean-forward="false" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/907059903/vtk/vtkRenderingKitPython/vtkRenderer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11280">
-          <caret line="382" column="8" lean-forward="false" selection-start-line="382" selection-start-column="8" selection-end-line="382" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/TestScreenshot.png" />
-    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/animation_img/9.png" />
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/907059903/cv2/cv2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323940">
-          <caret line="10810" column="4" lean-forward="false" selection-start-line="10810" selection-start-column="4" selection-end-line="10810" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/animation_img/0.png" />
     <entry file="file://$PROJECT_DIR$/system/example/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#31#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/precombust/precombust0027.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/animation_img/videoly.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="25" column="39" lean-forward="false" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/precombust/precombust0182.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/precombust/precombust0000.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/system/example/ACWE/ACWE.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="37" column="60" lean-forward="false" selection-start-line="37" selection-start-column="60" selection-end-line="37" selection-end-column="60" />
+        <state relative-caret-position="246">
+          <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="41" />
           <folding>
             <element signature="e#88#106#0" expanded="true" />
           </folding>
@@ -865,19 +1288,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/CV_animation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="48" column="52" lean-forward="false" selection-start-line="48" selection-start-column="52" selection-end-line="48" selection-end-column="52" />
+        <state relative-caret-position="210">
+          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
           <folding>
             <element signature="e#14#31#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/read_images/read_images.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
