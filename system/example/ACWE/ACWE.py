@@ -42,7 +42,7 @@ def CV_once(img, LSF, time_step, mu,nu, v, lambda1, lambda2, epison):
     penalty = mu * (Lap - cur)
 
     LSF = LSF + time_step * (CVterm+Length+penalty)
-    print("CVterm:",CVterm.sum(),"  maxNum:",LSF.max())
+    print("CVterm:",CVterm.sum(),"  maxNum:",LSF.max(),"  minNum:",LSF.min())
 
     return LSF
 

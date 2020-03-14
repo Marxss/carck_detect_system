@@ -25,12 +25,12 @@ def pine_root_connectivity(fileName, noConnectivity):
     colors = vtk.vtkNamedColors()
 
     # Create the pipeline.
-    v16 = vtk.vtkBMPReader()
+    v16 = vtk.vtkJPEGReader()
     v16.SetDataByteOrderToLittleEndian()
-    v16.SetFilePrefix("D:\slice_data\\bmp-lungu\\200503180")
-    v16.SetFilePattern("%s%03d.bmp")
+    v16.SetFilePrefix(r"D:\carck_detect_system\slices\2\0")
+    v16.SetFilePattern("%s%03d.jpg")
     i = 0
-    v16.SetDataExtent(0 + i, 452 - i, 0 + i, 452 - i, 19, 83)
+    v16.SetDataExtent(0 + i, 1024 - i, 0 + i, 1024 - i, 0, 927)
     v16.SetDataSpacing(1, 1, 1)
     v16.Update()
 
@@ -39,7 +39,7 @@ def pine_root_connectivity(fileName, noConnectivity):
     marchingCubes = vtk.vtkContourFilter()
     # marchingCubes = vtk.vtkMarchingContourFilter()
     marchingCubes.SetInputConnection(v16.GetOutputPort())
-    marchingCubes.SetValue(0, 100)
+    marchingCubes.SetValue(0, 130)
     marchingCubes.ComputeGradientsOn()
     marchingCubes.ComputeNormalsOn()
     marchingCubes.Update()

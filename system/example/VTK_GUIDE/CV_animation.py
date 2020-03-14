@@ -9,8 +9,9 @@ import cv2
 from read_images import *
 from ACWE.ACWE import *
 import random
+import os
 
-time_step=0.5
+time_step=1
 mu=0.1
 nu=0.1
 v=0.1
@@ -52,7 +53,7 @@ if __name__=="__main__":
     endNum=1200
     # img_height=255
     # img_width=255
-    path = r'D:\carck_detect_system\slices\precombust'
+    path = r'D:\carck_detect_system\slices\crack'
     img,img_width,img_height,startNum,endNum=read_images_cube(path,startNum,endNum)
     print(img_height,img_width)
     x,y,z = img.shape
@@ -60,7 +61,8 @@ if __name__=="__main__":
     r=100
     LSF = initialize(x,y,z, x_center=x//2, y_center=y//2, z_center=z//2, radius=min(x,y,z)//2)
     # LSF = np.ones(img.shape,img.dtype)
-    # LSF[10:x-10,10:y-10,10:z-10]=-1
+    # LSF[20:x-20,20:y-20,20:z-20]=-1
+    # LSF[x//2-10:x//2+10,y//2-10:y//2+10,z//2-10:z//2+10]=-1
     # LSF=-LSF
 
 
@@ -72,7 +74,8 @@ if __name__=="__main__":
     iren = vtk.vtkRenderWindowInteractor()
     iren.SetRenderWindow(renWin)
 
-    for _ in range(450):
+    cyc=450
+    for _ in range(cyc):
         ren1 = vtk.vtkRenderer()
         renWin = vtk.vtkRenderWindow()
         renWin.AddRenderer(ren1)
@@ -93,9 +96,12 @@ if __name__=="__main__":
         iso.ComputeGradientsOn()
         iso.SetValue(0, 0)
         # iso.Update()
-        if _%10==0:
+        if _%30==0 or _==cyc-1:
             stlWriter = vtk.vtkSTLWriter()
-            stlWriter.SetFileName("animation_img\\tmp\stl\{0}.stl".format("time_step={}, mu={},nu={}_".format(time_step,mu,nu,v)+str(_).zfill(3)))
+            dir=r"animation_img\tmp\stl"
+            if not os.path.exists(dir):
+                os.makedirs(dir)
+            stlWriter.SetFileName(dir+"\{0}.stl".format("time_step={}, mu={},nu={}_".format(time_step,mu,nu,v)+str(_).zfill(3)))
             stlWriter.SetInputConnection(iso.GetOutputPort())
             stlWriter.Write()
 

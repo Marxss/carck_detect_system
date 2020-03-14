@@ -26,7 +26,7 @@ def read_images_cube(path,start,end):
     y = math.ceil((l - y) / 2)
     z = math.ceil((l - z) / 2)
     img=np.pad(img,((x,x),(y,y),(z,z)),'constant')
-    img=np.flip(img,0)
+    # img=np.flip(img,0)
     return img,img.shape[0],img.shape[1],0,img.shape[2]
 
 
