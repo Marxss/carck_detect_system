@@ -1,1 +1,0 @@
-from vtkImagingMathPython import *
