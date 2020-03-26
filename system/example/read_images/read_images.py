@@ -3,7 +3,7 @@ import cv2
 import os
 import math
 
-def read_images(path,start,end):
+def read_images(path,start,end,flip=True):
     res=[]
     numOfFiles = len(os.listdir(path))
     for index, filename in enumerate(sorted(os.listdir(path))[start:end + 1]):
@@ -22,7 +22,7 @@ def read_images(path,start,end):
     res=res.astype(np.uint8)
     return res,img.shape[0],img.shape[1],0,min(end-start,len(os.listdir(path))-1)
 
-def read_images_CT(path,start,end):
+def read_images_CT(path,start,end,flip=True):
     res=[]
     numOfFiles=len(os.listdir(path))
     for index,filename in enumerate(sorted(os.listdir(path))[start:end+1]):
@@ -30,7 +30,7 @@ def read_images_CT(path,start,end):
         img=cv2.imread(img_path,cv2.IMREAD_GRAYSCALE)
         res.append(img)
         if index<=1 or index>=numOfFiles-2:
-            for _ in range(20):
+            for _ in range(80):
                 res.append(img)
     res=np.asarray(res)
     # res.reshape(())

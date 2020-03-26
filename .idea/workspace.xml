@@ -2,419 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c36b8d7-2490-477f-95ec-90a64673ea62" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/carck_detect_system.iml" afterPath="$PROJECT_DIR$/.idea/carck_detect_system.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/myPaper/contest.py" afterPath="$PROJECT_DIR$/myPaper/contest.py" />
       <change beforePath="$PROJECT_DIR$/system/example/read_images/read_images.py" afterPath="$PROJECT_DIR$/system/example/read_images/read_images.py" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/VTK-6.3.0.dist-info/DESCRIPTION.rst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/VTK-6.3.0.dist-info/INSTALLER" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/VTK-6.3.0.dist-info/METADATA" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/VTK-6.3.0.dist-info/RECORD" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/VTK-6.3.0.dist-info/WHEEL" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/VTK-6.3.0.dist-info/metadata.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/VTK-6.3.0.dist-info/top_level.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/Copyright.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/gtk/GtkGLExtVTKRenderWindow.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/gtk/GtkGLExtVTKRenderWindowInteractor.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/gtk/GtkVTKRenderWindow.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/gtk/GtkVTKRenderWindowInteractor.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/gtk/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/numpy_interface/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/numpy_interface/algorithms.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/numpy_interface/dataset_adapter.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/numpy_interface/internal_algorithms.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/qt4/QVTKRenderWindowInteractor.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/qt4/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/test/BlackBox.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/test/Testing.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/test/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/tk/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/tk/vtkLoadPythonTkWidgets.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/tk/vtkTkImageViewerWidget.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/tk/vtkTkPhotoImage.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/tk/vtkTkRenderWidget.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/tk/vtkTkRenderWindowInteractor.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/util/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/util/_argparse.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/util/colors.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/util/keys.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/util/misc.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/util/numpy_support.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/util/vtkAlgorithm.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/util/vtkConstants.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/util/vtkImageExportToArray.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/util/vtkImageImportFromArray.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/util/vtkMethodParser.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/util/vtkVariant.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkChartsCore-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkChartsCore.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkChartsCorePython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkChartsCorePython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonColor-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonColor.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonColorPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonColorPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonComputationalGeometry-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonComputationalGeometry.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonComputationalGeometryPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonComputationalGeometryPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonCore-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonCore.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonCorePython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonCorePython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonDataModel-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonDataModel.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonDataModelPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonDataModelPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonExecutionModel-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonExecutionModel.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonExecutionModelPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonExecutionModelPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonMath-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonMath.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonMathPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonMathPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonMisc-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonMisc.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonMiscPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonMiscPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonSystem-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonSystem.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonSystemPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonSystemPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonTransforms-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonTransforms.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonTransformsPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkCommonTransformsPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkDICOMParser-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkDomainsChemistry-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkDomainsChemistry.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkDomainsChemistryPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkDomainsChemistryPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersAMR-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersAMR.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersAMRPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersAMRPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersCore-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersCore.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersCorePython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersCorePython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersExtraction-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersExtraction.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersExtractionPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersExtractionPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersFlowPaths-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersFlowPaths.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersFlowPathsPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersFlowPathsPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersGeneral-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersGeneral.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersGeneralPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersGeneralPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersGeneric-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersGeneric.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersGenericPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersGenericPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersGeometry-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersGeometry.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersGeometryPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersGeometryPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersHybrid-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersHybrid.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersHybridPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersHybridPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersHyperTree-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersHyperTree.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersHyperTreePython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersHyperTreePython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersImaging-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersImaging.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersImagingPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersImagingPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersModeling-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersModeling.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersModelingPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersModelingPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersParallel-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersParallel.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersParallelImaging-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersParallelImaging.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersParallelImagingPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersParallelImagingPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersParallelPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersParallelPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersProgrammable-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersProgrammable.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersProgrammablePython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersProgrammablePython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersPython-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersPython.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersPythonPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersPythonPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersSMP-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersSMP.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersSMPPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersSMPPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersSelection-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersSelection.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersSelectionPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersSelectionPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersSources-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersSources.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersSourcesPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersSourcesPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersStatistics-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersStatistics.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersStatisticsPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersStatisticsPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersTexture-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersTexture.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersTexturePython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersTexturePython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersVerdict-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersVerdict.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersVerdictPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkFiltersVerdictPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkGeovisCore-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkGeovisCore.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkGeovisCorePython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkGeovisCorePython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOAMR-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOAMR.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOAMRPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOAMRPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOCore-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOCore.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOCorePython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOCorePython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOEnSight-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOEnSight.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOEnSightPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOEnSightPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOExodus-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOExodus.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOExodusPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOExodusPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOExport-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOExport.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOExportPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOExportPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOGeometry-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOGeometry.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOGeometryPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOGeometryPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOImage-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOImage.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOImagePython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOImagePython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOImport-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOImport.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOImportPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOImportPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOInfovis-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOInfovis.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOInfovisPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOInfovisPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOLSDyna-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOLSDyna.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOLSDynaPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOLSDynaPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOLegacy-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOLegacy.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOLegacyPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOLegacyPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOMINC-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOMINC.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOMINCPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOMINCPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOMovie-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOMovie.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOMoviePython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOMoviePython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIONetCDF-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIONetCDF.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIONetCDFPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIONetCDFPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOPLY-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOPLY.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOPLYPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOPLYPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOParallel-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOParallel.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOParallelPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOParallelPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOParallelXML-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOParallelXML.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOParallelXMLPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOParallelXMLPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOSQL-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOSQL.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOSQLPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOSQLPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOVideo-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOVideo.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOVideoPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOVideoPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOXML-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOXML.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOXMLParser-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOXMLParser.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOXMLParserPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOXMLParserPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOXMLPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkIOXMLPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingColor-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingColor.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingColorPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingColorPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingCore-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingCore.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingCorePython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingCorePython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingFourier-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingFourier.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingFourierPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingFourierPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingGeneral-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingGeneral.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingGeneralPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingGeneralPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingHybrid-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingHybrid.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingHybridPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingHybridPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingMath-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingMath.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingMathPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingMathPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingMorphological-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingMorphological.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingMorphologicalPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingMorphologicalPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingSources-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingSources.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingSourcesPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingSourcesPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingStatistics-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingStatistics.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingStatisticsPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingStatisticsPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingStencil-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingStencil.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingStencilPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkImagingStencilPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkInfovisCore-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkInfovisCore.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkInfovisCorePython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkInfovisCorePython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkInfovisLayout-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkInfovisLayout.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkInfovisLayoutPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkInfovisLayoutPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkInteractionImage-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkInteractionImage.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkInteractionImagePython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkInteractionImagePython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkInteractionStyle-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkInteractionStyle.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkInteractionStylePython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkInteractionStylePython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkInteractionWidgets-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkInteractionWidgets.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkInteractionWidgetsPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkInteractionWidgetsPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkNetCDF-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkNetCDF_cxx-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkParallelCore-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkParallelCore.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkParallelCorePython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkParallelCorePython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingAnnotation-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingAnnotation.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingAnnotationPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingAnnotationPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingContext2D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingContext2D.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingContext2DPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingContext2DPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingContextOpenGL-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingContextOpenGL.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingContextOpenGLPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingContextOpenGLPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingCore-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingCore.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingCorePython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingCorePython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingFreeType-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingFreeType.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingFreeTypePython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingFreeTypePython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingGL2PS-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingGL2PS.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingGL2PSPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingGL2PSPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingImage-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingImage.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingImagePython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingImagePython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingLIC-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingLIC.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingLICPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingLICPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingLOD-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingLOD.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingLODPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingLODPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingLabel-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingLabel.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingLabelPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingLabelPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingOpenGL-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingOpenGL.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingOpenGLPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingOpenGLPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingVolume-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingVolume.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingVolumeOpenGL-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingVolumeOpenGL.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingVolumeOpenGLPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingVolumeOpenGLPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingVolumePython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkRenderingVolumePython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkViewsContext2D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkViewsContext2D.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkViewsContext2DPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkViewsContext2DPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkViewsCore-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkViewsCore.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkViewsCorePython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkViewsCorePython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkViewsInfovis-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkViewsInfovis.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkViewsInfovisPython.pyd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkViewsInfovisPython27D-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkWrappingPython27Core-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkalglib-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkexoIIc-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkexpat-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkfreetype-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkftgl-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkgl2ps-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkhdf5-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkhdf5_hl-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkjpeg-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkjsoncpp-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtklibxml2-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkmetaio-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkoggtheora-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkpng-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkproj4-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtksys-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtktiff-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkverdict-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/vtkzlib-6.3.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/wx/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/wx/wxVTKRenderWindow.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv27/Lib/site-packages/vtk/wx/wxVTKRenderWindowInteractor.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -425,23 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="chanvese.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chanvese-master/chanvese.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="352" column="62" lean-forward="false" selection-start-line="352" selection-start-column="62" selection-end-line="352" selection-end-column="62" />
-              <folding>
-                <element signature="e#1191#1209#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CV3D_animation.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CV3D_animation.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/CV3D_animation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="22" column="3" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="3" />
+            <state relative-caret-position="2220">
+              <caret line="74" column="4" lean-forward="false" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="42" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -449,22 +28,104 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="read_images.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/system/example/read_images/read_images.py">
+      <file leaf-file-name="watch_crack.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/watch_crack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+            <state relative-caret-position="533">
+              <caret line="27" column="85" lean-forward="false" selection-start-line="27" selection-start-column="85" selection-end-line="27" selection-end-column="85" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CV3d.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/system/example/ACWE/CV3d.py">
+      <file leaf-file-name="fit_ellipse3D.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/fit_ellipse3D.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="409" column="62" lean-forward="false" selection-start-line="409" selection-start-column="62" selection-end-line="409" selection-end-column="62" />
+            <state relative-caret-position="2880">
+              <caret line="96" column="40" lean-forward="false" selection-start-line="96" selection-start-column="40" selection-end-line="96" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="intersection_plane.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/intersection_plane.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3480">
+              <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crack_line.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/crack_line.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4530">
+              <caret line="153" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crack_coordinate.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/crack_coordinate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="168" column="11" lean-forward="false" selection-start-line="168" selection-start-column="11" selection-end-line="168" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myPaper/contest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fit_plane.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/example/otsu/fit_plane.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plot_ellipsoid.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ellipsoid_fit_python-master/plot_ellipsoid.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="39" column="8" lean-forward="false" selection-start-line="39" selection-start-column="8" selection-end-line="40" selection-end-column="91" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ellipsoid_coefficients.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/ellipsoid_coefficients.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1350">
+              <caret line="50" column="32" lean-forward="false" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -488,6 +149,10 @@
       <find>print</find>
       <find>epsilon</find>
       <find>a</find>
+      <find>;</find>
+      <find>.GetData()</find>
+      <find>ployData</find>
+      <find>i</find>
     </findStrings>
     <replaceStrings>
       <replace>.#</replace>
@@ -495,6 +160,8 @@
       <replace>epison</replace>
       <replace>b</replace>
       <replace>f</replace>
+      <replace>vtkIntersectionPolyDataFilter</replace>
+      <replace>res[i-1]</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -503,20 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/vtk_itk_test.py" />
-        <option value="$PROJECT_DIR$/system/test1.py" />
-        <option value="$PROJECT_DIR$/system/vtkInQt.py" />
-        <option value="$PROJECT_DIR$/system/example/slice.py" />
-        <option value="$PROJECT_DIR$/system/vtkInQtTest.py" />
-        <option value="$PROJECT_DIR$/system/example/vtkInQt.py" />
-        <option value="$PROJECT_DIR$/system/test.py" />
-        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/poly_line.py" />
-        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/ploygon.py" />
-        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/slider.py" />
-        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/parameters.py" />
-        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/volume.py" />
-        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/marchingCube.py" />
-        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/ellipsoid.py" />
         <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/AlignTwoPolyDatas.py" />
         <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/cutPlane.py" />
         <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/ICP.py" />
@@ -542,7 +195,6 @@
         <option value="$PROJECT_DIR$/system/example/vtkInQtTest.py" />
         <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/VTKwithNumpy.py" />
         <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/PineRootConnectivity_sphere.py" />
-        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/watch_crack.py" />
         <option value="$PROJECT_DIR$/system/example/ACWE/ACWE.py" />
         <option value="$PROJECT_DIR$/myPaper/VTK.py" />
         <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/PineRootConnectivity.py" />
@@ -550,10 +202,25 @@
         <option value="$PROJECT_DIR$/chanvese-master/chanvese3d.py" />
         <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/CV3d.py" />
         <option value="$PROJECT_DIR$/system/example/toVtkData.py" />
-        <option value="$PROJECT_DIR$/system/example/read_images/read_images.py" />
         <option value="$PROJECT_DIR$/chanvese-master/chanvese.py" />
         <option value="$PROJECT_DIR$/system/example/ACWE/CV3d.py" />
+        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/MC.py" />
+        <option value="$PROJECT_DIR$/myPaper/contest.py" />
+        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/segement_crack.py" />
+        <option value="$PROJECT_DIR$/ellipsoid_fit_python-master/get_calibration_ellipsoid.py" />
+        <option value="$PROJECT_DIR$/system/example/read_images/read_images.py" />
+        <option value="$PROJECT_DIR$/ellipsoid_fit_python-master/ellipsoid_fit.py" />
+        <option value="$PROJECT_DIR$/ellipsoid_fit_python-master/plot_ellipsoid.py" />
         <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/CV3D_animation.py" />
+        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/watch_crack.py" />
+        <option value="$PROJECT_DIR$/MVE-master/example1.py" />
+        <option value="$PROJECT_DIR$/system/example/fit_plane.py" />
+        <option value="$PROJECT_DIR$/system/example/otsu/fit_plane.py" />
+        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/ellipsoid_coefficients.py" />
+        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/fit_ellipse3D.py" />
+        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/intersection_plane.py" />
+        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/crack_line.py" />
+        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/crack_coordinate.py" />
       </list>
     </option>
   </component>
@@ -604,6 +271,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -614,18 +282,12 @@
             <path>
               <item name="carck_detect_system" type="b2602c69:ProjectViewProjectNode" />
               <item name="carck_detect_system" type="462c0819:PsiDirectoryNode" />
-              <item name="chanvese-master" type="462c0819:PsiDirectoryNode" />
+              <item name="myPaper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="carck_detect_system" type="b2602c69:ProjectViewProjectNode" />
               <item name="carck_detect_system" type="462c0819:PsiDirectoryNode" />
               <item name="slices" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="carck_detect_system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="carck_detect_system" type="462c0819:PsiDirectoryNode" />
-              <item name="slices" type="462c0819:PsiDirectoryNode" />
-              <item name="precombust" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="carck_detect_system" type="b2602c69:ProjectViewProjectNode" />
@@ -650,13 +312,27 @@
               <item name="carck_detect_system" type="462c0819:PsiDirectoryNode" />
               <item name="system" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="otsu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="carck_detect_system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carck_detect_system" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="otsu" type="462c0819:PsiDirectoryNode" />
+              <item name="otsu.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="carck_detect_system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="carck_detect_system" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="VTK_GUIDE" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -680,11 +356,11 @@
       <recent name="D:\carck_detect_system\system\example" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\carck_detect_system\system\example\otsu" />
       <recent name="D:\carck_detect_system\system\example\ACWE" />
       <recent name="D:\carck_detect_system\system\example" />
       <recent name="D:\carck_detect_system\system\otsu" />
       <recent name="D:\carck_detect_system\myPaper\gear_CT_slices" />
-      <recent name="D:\carck_detect_system\system" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -699,8 +375,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.CV3D_animation">
-    <configuration name="CV3D_animation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.watch_crack">
+    <configuration name="crack_coordinate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -712,31 +388,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="carck_detect_system" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/system/example/VTK_GUIDE/CV3D_animation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/system/example/VTK_GUIDE/crack_coordinate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="CV3d (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/system/example/ACWE" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="carck_detect_system" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/system/example/ACWE/CV3d.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="CV3d" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="crack_line" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -748,62 +406,80 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="carck_detect_system" />
-      <option name="SCRIPT_NAME" value="D:\carck_detect_system\system\example\ACWE\CV3d.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/system/example/VTK_GUIDE/crack_line.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="chanvese" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fit_ellipse3D" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chanvese-master" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/system/example/VTK_GUIDE" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="carck_detect_system" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chanvese-master/chanvese.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/system/example/VTK_GUIDE/fit_ellipse3D.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="chanvese3d" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="intersection_plane" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chanvese-master" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/system/example/VTK_GUIDE" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="carck_detect_system" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chanvese-master/chanvese3d.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/system/example/VTK_GUIDE/intersection_plane.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="watch_crack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/system/example/VTK_GUIDE" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="carck_detect_system" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/system/example/VTK_GUIDE/watch_crack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.chanvese" />
-      <item index="1" class="java.lang.String" itemvalue="Python.chanvese3d" />
-      <item index="2" class="java.lang.String" itemvalue="Python.CV3d" />
-      <item index="3" class="java.lang.String" itemvalue="Python.CV3D_animation" />
-      <item index="4" class="java.lang.String" itemvalue="Python.CV3d (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.fit_ellipse3D" />
+      <item index="1" class="java.lang.String" itemvalue="Python.intersection_plane" />
+      <item index="2" class="java.lang.String" itemvalue="Python.crack_line" />
+      <item index="3" class="java.lang.String" itemvalue="Python.crack_coordinate" />
+      <item index="4" class="java.lang.String" itemvalue="Python.watch_crack" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.CV3D_animation" />
-        <item index="1" class="java.lang.String" itemvalue="Python.chanvese" />
-        <item index="2" class="java.lang.String" itemvalue="Python.CV3d (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.CV3d" />
-        <item index="4" class="java.lang.String" itemvalue="Python.chanvese3d" />
+        <item index="0" class="java.lang.String" itemvalue="Python.watch_crack" />
+        <item index="1" class="java.lang.String" itemvalue="Python.crack_coordinate" />
+        <item index="2" class="java.lang.String" itemvalue="Python.crack_line" />
+        <item index="3" class="java.lang.String" itemvalue="Python.intersection_plane" />
+        <item index="4" class="java.lang.String" itemvalue="Python.fit_ellipse3D" />
       </list>
     </recent_temporary>
   </component>
@@ -891,7 +567,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584205471247</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2020.3.21">
+      <created>1584721070372</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584721070372</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -899,41 +582,42 @@
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17966281" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25027934" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3083799" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849163" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849163" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25027934" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849163" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14699684" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3083799" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849163" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17966281" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -947,7 +631,8 @@
     <MESSAGE value="2020.2.11" />
     <MESSAGE value="2020.3.10" />
     <MESSAGE value="2020.3.15" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.3.15" />
+    <MESSAGE value="2020.3.21" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.3.21" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -989,7 +674,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/system/example/read_images/read_images.py</url>
-          <line>53</line>
+          <line>54</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -1032,6 +717,11 @@
           <line>14</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/system/example/VTK_GUIDE/fit_ellipse3D.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1040,207 +730,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="55" />
+      <option name="time" value="57" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/slices/penzui/0018.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/PineRootConnectivity_sphere.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="122" column="22" lean-forward="false" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slices/penzui/0000.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slices/2/0020.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slices/2/0790.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slices/2/0146.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slices/2/0006.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/PineRootConnectivity.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-125">
-          <caret line="41" column="33" lean-forward="false" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chanvese-master/levelset.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chanvese-master/brain.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chanvese-master/origin.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChanVese_Levelset_Segmentation-master/helpers_cv_levelset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChanVese_Levelset_Segmentation-master/test_images/lena1.tif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChanVese_Levelset_Segmentation-master/test_images/circles.tif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ChanVese_Levelset_Segmentation-master/cv_levelset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-459">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chanvese-master/chanvese3d.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="317" column="0" lean-forward="false" selection-start-line="317" selection-start-column="0" selection-end-line="317" selection-end-column="0" />
-          <folding>
-            <element signature="e#1080#1098#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv27/Lib/site-packages/numpy/lib/arraypad.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="1156" column="0" lean-forward="false" selection-start-line="1156" selection-start-column="0" selection-end-line="1156" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/CV_animation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="63" column="22" lean-forward="false" selection-start-line="63" selection-start-column="22" selection-end-line="64" selection-end-column="61" />
-          <folding>
-            <element signature="e#14#31#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/ACWE/toVtkData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chanvese-master/images/50.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chanvese-master/images/150.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chanvese-master/images/100.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chanvese-master/levelset_start.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chanvese-master/levelset_end.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slices/cover/cover0001.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slices/cover/cover0000.bmp">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chanvese-master/images/400.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chanvese-master/images/350.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chanvese-master/images/1250.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chanvese-master/images/1350.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python36_64/Lib/site-packages/mpl_toolkits/axes_grid1/parasite_axes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="193" column="8" lean-forward="false" selection-start-line="193" selection-start-column="8" selection-end-line="193" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chanvese-master/images/0.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chanvese-master/images/2000.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chanvese-master/images/1450.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1291,16 +785,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chanvese-master/chanvese.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="352" column="62" lean-forward="false" selection-start-line="352" selection-start-column="62" selection-end-line="352" selection-end-column="62" />
-          <folding>
-            <element signature="e#1191#1209#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/slices/precombust/precombust0001.bmp">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1321,29 +805,284 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/ACWE/CV3d.py">
+    <entry file="file://$PROJECT_DIR$/chanvese-master/chanvese.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="409" column="62" lean-forward="false" selection-start-line="409" selection-start-column="62" selection-end-line="409" selection-end-column="62" />
+        <state relative-caret-position="9459">
+          <caret line="352" column="62" lean-forward="false" selection-start-line="352" selection-start-column="62" selection-end-line="352" selection-end-column="62" />
+          <folding>
+            <element signature="e#1191#1209#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/MC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="44" column="66" lean-forward="false" selection-start-line="44" selection-start-column="66" selection-end-line="44" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#38#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myPaper/preprocess.bmp">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myPaper/produce_crack_slice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myPaper/crack_paper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myPaper/crack_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1560">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myPaper/crack_point_cloud.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myPaper/cal_nearest_point.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myPaper/produce_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#31#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/ACWE/ACWE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3639">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/ellipsoid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-925">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/PolyDataContourToImageData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2730">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/ploygon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/segement_crack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="41" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ellipsoid_fit_python-master/magcal_ellipsoid.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ellipsoid_fit_python-master/mag_out.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/system/example/read_images/read_images.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        <state relative-caret-position="60">
+          <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/ACWE/CV3d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ellipsoid_fit_python-master/get_calibration_ellipsoid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ellipsoid_fit_python-master/ellipsoid_fit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4380">
+          <caret line="147" column="34" lean-forward="false" selection-start-line="147" selection-start-column="33" selection-end-line="147" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/907059903/vtk/vtkCommonKitPython/vtkQuadric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="95" column="8" lean-forward="false" selection-start-line="95" selection-start-column="8" selection-end-line="95" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVE-master/example1.py" />
+    <entry file="file://$PROJECT_DIR$/MVE-master/setup.py" />
+    <entry file="file://$PROJECT_DIR$/MVE-master/ellipsoid/mve.py" />
+    <entry file="file://$PROJECT_DIR$/ellipsoids-master/src/run.py" />
+    <entry file="file://$PROJECT_DIR$/ellipsoids-master/test/test1.py" />
+    <entry file="file://$PROJECT_DIR$/ellipsoids-master/src/solver.py" />
+    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/ellipsoid_coefficients.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="50" column="32" lean-forward="false" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/fit_ellipse3D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2880">
+          <caret line="96" column="40" lean-forward="false" selection-start-line="96" selection-start-column="40" selection-end-line="96" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/intersection_plane.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3480">
+          <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/otsu/fit_plane.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/crack_line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4530">
+          <caret line="153" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ellipsoid_fit_python-master/plot_ellipsoid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="39" column="8" lean-forward="false" selection-start-line="39" selection-start-column="8" selection-end-line="40" selection-end-column="91" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/CV3D_animation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="22" column="3" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="3" />
+        <state relative-caret-position="2220">
+          <caret line="74" column="4" lean-forward="false" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="42" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/crack_coordinate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="168" column="11" lean-forward="false" selection-start-line="168" selection-start-column="11" selection-end-line="168" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myPaper/contest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/watch_crack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="27" column="85" lean-forward="false" selection-start-line="27" selection-start-column="85" selection-end-line="27" selection-end-column="85" />
+          <folding />
         </state>
       </provider>
     </entry>

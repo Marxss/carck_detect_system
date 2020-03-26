@@ -5,6 +5,9 @@
       <sourceFolder url="file://$MODULE_DIR$/system/example" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/system/example/otsu" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/system/example/read_images" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ellipsoid_fit_python-master" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MVE-master/ellipsoid" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ellipsoids-master" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
       <excludeFolder url="file://$MODULE_DIR$/venv2.7" />
       <excludeFolder url="file://$MODULE_DIR$/venv27" />
