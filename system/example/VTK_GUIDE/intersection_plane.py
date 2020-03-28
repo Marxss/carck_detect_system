@@ -118,22 +118,37 @@ args=fit_plane(x,y,z)
 a,b,c,d=(args[0],args[1],1,args[2])
 
 # Create a plane
-planeSource = vtk.vtkPlaneSource()
-planeSource.SetOrigin(165, 165, d)
-# planeSource.SetNormal(0, 0, 1.0)
-planeSource.SetPoint1(100, 100,d)
-planeSource.SetPoint2(100, 230,d)
-planeSource.Update()
+# planeSource = vtk.vtkPlaneSource()
+planeSource=vtk.vtkPlane()
+planeSource.SetOrigin(0, 0, d)
+# planeSource.SetCenter(165, 165*0.66, d)
+planeSource.SetNormal(a+0.01, b, -1)
+# planeSource.SetPoint1(100, 100*0.66,d)
+# planeSource.SetPoint2(100, 100*0.66,d)
+# planeSource.Update()
 
-plane = planeSource.GetOutput()
+sample = vtk.vtkSampleFunction()
+sample.SetImplicitFunction(planeSource)
+center=[91.89398545346178, 157.565675900567, 164.00026179252038]
+r=45
+sample.SetModelBounds(center[0]-r, center[0]+r, center[1]-r,center[1]+ r,center[2] -r,center[2]+ r)
+sample.SetSampleDimensions(430, 430, 430)
+sample.ComputeNormalsOff()
+
+# contour
+surface = vtk.vtkContourFilter()
+surface.SetInputConnection(sample.GetOutputPort())
+surface.SetValue(0, 0.0)
 
 # Create a mapper and actor
 plane_mapper = vtk.vtkPolyDataMapper()
-plane_mapper.SetInputData(plane)
+plane_mapper.SetInputConnection(surface.GetOutputPort())
 
 plane_actor = vtk.vtkActor()
 plane_actor.SetMapper(plane_mapper)
-plane_actor.GetProperty().SetColor(colors.GetColor3d("Cyan"))
+plane_actor.GetProperty().SetColor(colors.GetColor3d("yellow"))
+plane_actor.GetProperty().SetEdgeColor(colors.GetColor3d('SteelBlue'))
+plane_actor.GetProperty().SetOpacity(0.3)
 
 
 

@@ -117,35 +117,48 @@ actor.GetProperty().SetOpacity(0.3)
 args=fit_plane(x,y,z)
 a,b,c,d=(args[0],args[1],1,args[2])
 
-# Create a plane
-planeSource = vtk.vtkPlaneSource()
-planeSource.SetOrigin(165, 165, d)
-# planeSource.SetNormal(0, 0, 1.0)
-planeSource.SetPoint1(100, 100,d)
-planeSource.SetPoint2(100, 230,d)
-planeSource.SetXResolution(400)
-planeSource.SetYResolution(400)
-planeSource.Update()
+planeSource=vtk.vtkPlane()
+planeSource.SetOrigin(0, 0, d)
+# planeSource.SetCenter(165, 165*0.66, d)
+planeSource.SetNormal(a+0.01, b, -1)
+# planeSource.SetPoint1(100, 100*0.66,d)
+# planeSource.SetPoint2(100, 100*0.66,d)
+# planeSource.Update()
 
-plane = planeSource.GetOutput()
+sample = vtk.vtkSampleFunction()
+sample.SetImplicitFunction(planeSource)
+center=[91.89398545346178, 157.565675900567, 164.00026179252038]
+r=45
+sample.SetModelBounds(center[0]-r, center[0]+r, center[1]-r,center[1]+ r,center[2] -r,center[2]+ r)
+sample.SetSampleDimensions(430, 430, 430)
+sample.ComputeNormalsOff()
+
+# contour
+plane_surface = vtk.vtkContourFilter()
+plane_surface.SetInputConnection(sample.GetOutputPort())
+plane_surface.SetValue(0, 0.0)
 
 # Create a mapper and actor
 plane_mapper = vtk.vtkPolyDataMapper()
-plane_mapper.SetInputData(plane)
+plane_mapper.SetInputConnection(plane_surface.GetOutputPort())
 
 plane_actor = vtk.vtkActor()
 plane_actor.SetMapper(plane_mapper)
-plane_actor.GetProperty().SetColor(colors.GetColor3d("Cyan"))
+plane_actor.GetProperty().SetColor(colors.GetColor3d("Banana"))
+plane_actor.GetProperty().SetEdgeColor(colors.GetColor3d('SteelBlue'))
+plane_actor.GetProperty().SetOpacity(0.3)
 
 cutPlane = vtk.vtkTriangleFilter()
-cutPlane.SetInputConnection(planeSource.GetOutputPort())
+cutPlane.SetInputConnection(plane_surface.GetOutputPort())
 cutPlane.Update()
+print(surface)
+print(plane_surface)
 
 vtkIntersectionPolyDataFilter=vtk.vtkIntersectionPolyDataFilter()
 vtkIntersectionPolyDataFilter.SetInputConnection(0,surface.GetOutputPort())
 vtkIntersectionPolyDataFilter.SetInputConnection(1,cutPlane.GetOutputPort())
 vtkIntersectionPolyDataFilter.Update()
-print(vtkIntersectionPolyDataFilter)
+# print(vtkIntersectionPolyDataFilter)
 crack_mapper = vtk.vtkPolyDataMapper()
 crack_mapper.SetInputConnection(vtkIntersectionPolyDataFilter.GetOutputPort())
 crack_actor = vtk.vtkActor()
@@ -166,30 +179,32 @@ for i in range(arr.GetNumberOfPoints()):
     s.add(arr.GetPoint(i))
 s=sorted(list(s),key=lambda x:x[0])
 print(len(s))
-s=s[ : : 180]
-s=set(s)
-# print(res)
-res=[]
-res.append(s.pop())
+s=s[ : : 165]
+
 def dist(x,y):
     return abs(x[0]-y[0])+abs(x[1]-y[1])+abs(x[2]-y[2])
-for i in range(len(s)-1):
-    x=res[-1]
-    nearst=99999999999999
-    bestY=0
-    for y in s:
-        if dist(x,y)<nearst:
-            nearst=dist(x,y)
-            bestY=y
-    res.append(bestY)
-    s.discard(bestY)
-print(len(res))
+
+
+points=set(s)
+res=[]
+res.append(points.pop())
+for i in range(len(points)-1):
+    orign=res[-1]
+    nearstDist=99999999999999
+    nearstPoint=None
+    for point in points:
+        if dist(orign,point)<nearstDist:
+            nearstDist=dist(x,y)
+            nearstPoint=point
+    res.append(point)
+    points.discard(point)
+
 
 
 filename = r'D:\crack_grow\crack.txt'
 with open(filename, 'w') as file_object:
     for i in res:
-        file_object.write("{} {} {} 1\n".format(i[0],i[1],i[2]))
+        file_object.write("{:.8f}  {:.8f}  {:.8f}  1\n".format(i[0],i[1],i[2]))
 # filename = r'D:\crack_order.txt'
 # order=[1,2,4,6,8,12,11,10,9,7,5,3]
 # with open(filename, 'w') as file_object:

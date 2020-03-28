@@ -25,7 +25,7 @@ iren = vtk.vtkRenderWindowInteractor()
 iren.SetRenderWindow(renWin)
 
 reader=vtk.vtkSTLReader()
-reader.SetFileName(r'D:\carck_detect_system\system\example\VTK_GUIDE\animation_img\ct.stl')
+reader.SetFileName(r'D:\carck_detect_system\system\example\VTK_GUIDE\animation_img\precombust2.stl')
 reader.Update()
 polyData=reader.GetOutput()
 

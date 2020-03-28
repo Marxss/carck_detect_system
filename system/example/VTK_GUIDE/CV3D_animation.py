@@ -1,5 +1,6 @@
 from ACWE.CV3d import chanvese3d_yield
 from ACWE.toVtkData import toVtkData
+from ACWE.noise import gasuss_noise,sp_noise
 from ACWE.ACWE import initialize
 from read_images import read_images_cube,read_images,read_images_CT
 import vtk
@@ -11,15 +12,16 @@ startNum=0
 endNum=1200
 # img_height=255
 # img_width=255
-path = r'D:\carck_detect_system\slices\CT'
-img,img_width,img_height,startNum,endNum=read_images_CT(path,startNum,endNum,flip=True)
+path = r'D:\carck_detect_system\slices\engine'
+img,img_width,img_height,startNum,endNum=read_images(path,startNum,endNum,flip=True)
 print(img_height,img_width)
 x,y,z = img.shape
 print("x,y,z:",x,y,z,img.dtype)
+img=gasuss_noise(img.astype(np.uint8),0,0.05)
 # r=100
 # phi = initialize(x,y,z, x_center=x//2, y_center=y//2, z_center=z//2, radius=min(x,y,z)//2)
 phi = np.zeros(img.shape, img.dtype)
-r=20
+r=10
 phi[x // 2 - r:x // 2 + r, y // 2 - r:y // 2 + r, z//2-r:z//2+r] = 1
 
 
@@ -31,9 +33,9 @@ renWin.AddRenderer(ren1)
 iren = vtk.vtkRenderWindowInteractor()
 iren.SetRenderWindow(renWin)
 
-for _,LSF in enumerate(chanvese3d_yield(img, phi, max_its=5000, alpha=0.1)):
+for _,LSF in enumerate(chanvese3d_yield(img, phi, max_its=15000, alpha=1)):
     print("iterators:", _ + 1)
-    if _ % 30 != 0:
+    if _ % 50 != 0:
         continue
     ren1 = vtk.vtkRenderer()
     renWin = vtk.vtkRenderWindow()
@@ -50,7 +52,7 @@ for _,LSF in enumerate(chanvese3d_yield(img, phi, max_its=5000, alpha=0.1)):
     iso.ComputeGradientsOn()
     iso.SetValue(0, 0)
     # iso.Update()
-    if _ % 60 == 0 :
+    if _ % 100 == 0 :
         stlWriter = vtk.vtkSTLWriter()
         dir = r"animation_img\tmp\stl"
         if not os.path.exists(dir):
