@@ -17,7 +17,8 @@ img,img_width,img_height,startNum,endNum=read_images(path,startNum,endNum,flip=T
 print(img_height,img_width)
 x,y,z = img.shape
 print("x,y,z:",x,y,z,img.dtype)
-img=gasuss_noise(img.astype(np.uint8),0,0.05)
+img=sp_noise(img.astype(np.uint8),0.05)
+# img=gasuss_noise(img.astype(np.uint8),0,0.05)
 # r=100
 # phi = initialize(x,y,z, x_center=x//2, y_center=y//2, z_center=z//2, radius=min(x,y,z)//2)
 phi = np.zeros(img.shape, img.dtype)
@@ -33,9 +34,9 @@ renWin.AddRenderer(ren1)
 iren = vtk.vtkRenderWindowInteractor()
 iren.SetRenderWindow(renWin)
 
-for _,LSF in enumerate(chanvese3d_yield(img, phi, max_its=15000, alpha=1)):
+for _,LSF in enumerate(chanvese3d_yield(img, phi, max_its=150000, alpha=0.91)):
     print("iterators:", _ + 1)
-    if _ % 50 != 0:
+    if _ % 100 != 0:
         continue
     ren1 = vtk.vtkRenderer()
     renWin = vtk.vtkRenderWindow()
@@ -52,7 +53,7 @@ for _,LSF in enumerate(chanvese3d_yield(img, phi, max_its=15000, alpha=1)):
     iso.ComputeGradientsOn()
     iso.SetValue(0, 0)
     # iso.Update()
-    if _ % 100 == 0 :
+    if _ % 300 == 0 :
         stlWriter = vtk.vtkSTLWriter()
         dir = r"animation_img\tmp\stl"
         if not os.path.exists(dir):

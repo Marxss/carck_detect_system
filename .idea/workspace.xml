@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c36b8d7-2490-477f-95ec-90a64673ea62" name="Default" comment="2020.3.27">
+    <list default="true" id="2c36b8d7-2490-477f-95ec-90a64673ea62" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/myPaper/contest.py" afterPath="$PROJECT_DIR$/myPaper/contest.py" />
       <change beforePath="$PROJECT_DIR$/system/example/VTK_GUIDE/CV3D_animation.py" afterPath="$PROJECT_DIR$/system/example/VTK_GUIDE/CV3D_animation.py" />
-      <change beforePath="$PROJECT_DIR$/system/example/VTK_GUIDE/MC.py" afterPath="$PROJECT_DIR$/system/example/VTK_GUIDE/MC.py" />
-      <change beforePath="$PROJECT_DIR$/system/example/VTK_GUIDE/crack_coordinate.py" afterPath="$PROJECT_DIR$/system/example/VTK_GUIDE/crack_coordinate.py" />
-      <change beforePath="$PROJECT_DIR$/system/example/VTK_GUIDE/intersection_plane.py" afterPath="$PROJECT_DIR$/system/example/VTK_GUIDE/intersection_plane.py" />
-      <change beforePath="$PROJECT_DIR$/system/example/VTK_GUIDE/watch_crack.py" afterPath="$PROJECT_DIR$/system/example/VTK_GUIDE/watch_crack.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CV3D_animation.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CV3D_animation.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/CV3D_animation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="54" column="13" lean-forward="false" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+            <state relative-caret-position="240">
+              <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -65,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="crack_coordinate.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="crack_coordinate.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/crack_coordinate.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="282">
@@ -114,8 +109,8 @@
       <file leaf-file-name="noise.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/system/example/ACWE/noise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -212,8 +207,8 @@
         <option value="$PROJECT_DIR$/system/example/ACWE/noise.py" />
         <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/watch_crack.py" />
         <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/MC.py" />
-        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/CV3D_animation.py" />
         <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/crack_coordinate.py" />
+        <option value="$PROJECT_DIR$/system/example/VTK_GUIDE/CV3D_animation.py" />
       </list>
     </option>
   </component>
@@ -373,7 +368,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.crack_coordinate">
+  <component name="RunManager" selected="Python.CV3D_animation">
     <configuration name="CV3D_animation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -473,8 +468,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.crack_coordinate" />
-        <item index="1" class="java.lang.String" itemvalue="Python.CV3D_animation" />
+        <item index="0" class="java.lang.String" itemvalue="Python.CV3D_animation" />
+        <item index="1" class="java.lang.String" itemvalue="Python.crack_coordinate" />
         <item index="2" class="java.lang.String" itemvalue="Python.watch_crack" />
         <item index="3" class="java.lang.String" itemvalue="Python.MC" />
         <item index="4" class="java.lang.String" itemvalue="Python.contest" />
@@ -572,7 +567,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584721070372</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2020.3.27">
+      <created>1585373095457</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1585373095457</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -630,7 +632,8 @@
     <MESSAGE value="2020.3.10" />
     <MESSAGE value="2020.3.15" />
     <MESSAGE value="2020.3.21" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.3.21" />
+    <MESSAGE value="2020.3.27" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.3.27" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1041,16 +1044,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/ACWE/noise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/watch_crack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
@@ -1085,22 +1078,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/CV3D_animation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="54" column="13" lean-forward="false" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/crack_coordinate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
           <caret line="192" column="29" lean-forward="false" selection-start-line="192" selection-start-column="29" selection-end-line="192" selection-end-column="29" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/ACWE/noise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/example/VTK_GUIDE/CV3D_animation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
